@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joyland/static/css/main.275b6b97.chunk.css",
+    "main.js": "/joyland/static/js/main.30a97842.chunk.js",
+    "main.js.map": "/joyland/static/js/main.30a97842.chunk.js.map",
+    "runtime-main.js": "/joyland/static/js/runtime-main.cef030ed.js",
+    "runtime-main.js.map": "/joyland/static/js/runtime-main.cef030ed.js.map",
+    "static/js/2.5ef9b201.chunk.js": "/joyland/static/js/2.5ef9b201.chunk.js",
+    "static/js/2.5ef9b201.chunk.js.map": "/joyland/static/js/2.5ef9b201.chunk.js.map",
+    "static/js/3.63c6886e.chunk.js": "/joyland/static/js/3.63c6886e.chunk.js",
+    "static/js/3.63c6886e.chunk.js.map": "/joyland/static/js/3.63c6886e.chunk.js.map",
+    "index.html": "/joyland/index.html",
+    "static/css/main.275b6b97.chunk.css.map": "/joyland/static/css/main.275b6b97.chunk.css.map",
+    "static/js/2.5ef9b201.chunk.js.LICENSE.txt": "/joyland/static/js/2.5ef9b201.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/joyland/static/media/hero.bd48af33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef030ed.js",
+    "static/js/2.5ef9b201.chunk.js",
+    "static/css/main.275b6b97.chunk.css",
+    "static/js/main.30a97842.chunk.js"
+  ]
+}
